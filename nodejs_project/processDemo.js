@@ -1,0 +1,11 @@
+console.log("process.argv", process.argv);
+console.log("process.argv", process.argv[1]);
+console.log("process.argv", process.env);
+console.log("process.computer", process.env.COMPUTERNAME);
+console.log("process.pid", process.pid);
+console.log("process.cwd", process.cwd());
+console.log("process.title", process.title);
+console.log("process.memoryUsage", process.memoryUsage());
+console.log("process.uptime", process.uptime());
+console.log("process.uptime", process.exit(0));
+console.log("process.uptime", process.uptime());

@@ -1,0 +1,2 @@
+Hello from write file
+appende file text
