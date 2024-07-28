@@ -25,4 +25,4 @@ myEmitter.on("error", (err) => {
 });
 
 //simulate error
-myEmitter.emit("error", new Error("Something went wrong"));
+myEmitter.emit("error", "Something went wrong");
